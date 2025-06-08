@@ -1,0 +1,5 @@
+"name", "attribute", attribute_value, "function to call", "function arg list"
+"small water bottle", "water", 1, "", ""
+"small can of food", "food", 1, "", ""
+"small cache of building materials", "", 0, "loot", "building_materials, 1"
+"medium cache of building materials", "", 0, "loot", "building_materials, 2"
